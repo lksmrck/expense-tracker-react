@@ -14,7 +14,8 @@
 - Expenses can be filtered based on the year, where they belong. Expenses are filtered by year, new array is created and displayed.
 
 ###  📊 Statistics
-- If there are any expenses in filtered year, the <b>Statistics</b> button is displayed. After clicking it, the modal window with backdrop and graph with monthly expense statistics in selected year is displayed. The graph is fully created in CSS + React. User is able to close the modal by clicking on <b>Take me back</b> button or anywhere on the backdrop. 
+- If there are any expenses in filtered year, the <b>Statistics</b> button is displayed. After clicking it, the modal window with backdrop and graph with monthly expense statistics in selected year is displayed. 
+- The graph is fully created in CSS + React. User is able to close the modal by clicking on <b>Take me back</b> button or anywhere on the backdrop. 
 
 ###  ℹ️ Other
 - If there is no expense in filtered year, the request for user to create new expense is displayed instead.
