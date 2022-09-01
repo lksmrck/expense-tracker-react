@@ -25,7 +25,6 @@ function ExpensesList(props) {
           onDeleteExpense={props.onDeleteExpense}
         />
       ))}
-      ;
     </ul>
   );
 }
